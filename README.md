@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Integração Matemática (Álgebra Linear)
 
 Aplicação web e biblioteca em PHP desenvolvida para realização de operações com matrizes, cálculo de determinantes e resolução de sistemas de equações lineares.
@@ -15,3 +16,6 @@ Aplicação web e biblioteca em PHP desenvolvida para realização de operaçõe
 2. Abra o terminal na pasta raiz do projeto:
    ```bash
    cd projeto-integra-o-matematica
+=======
+
+>>>>>>> ac9e10dba9f94044485999dff287cc3f893e3701
