@@ -1,0 +1,38 @@
+﻿{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies"
+    ],
+    "content-hash": "7a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "phpunit/phpunit",
+            "version": "11.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "reference": "11.0.0"
+            },
+            "require": {
+                "php": ">=8.2"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            }
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=8.4"
+    },
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
